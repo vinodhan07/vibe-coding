@@ -149,8 +149,8 @@ See the [LICENSE](LICENSE) file for more details.
 ---
 
 ## 💬 Contact
-**Author:** [Your Name]  
-**GitHub:** [@your-username](https://github.com/vinodhan07)  
+**Author:** [Vinodhan]  
+**GitHub:** [@vinodhan07](https://github.com/vinodhan07)  
 **Email:** vinovb21@gmail.com
 
 ---
