@@ -1,0 +1,10 @@
+Flask==3.0.3
+python-dotenv==1.0.1
+requests==2.32.3
+dnspython==2.4.2
+whois==0.9.17
+python-dateutil==2.8.2
+pytz==2023.3
+email-validator==2.0.0
+flask-cors==4.0.0
+flask-mail==0.9.1
