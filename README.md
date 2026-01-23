@@ -80,6 +80,17 @@ Runs at http://localhost:5000
 
 ## 🛠️ Tech Stack
 
+<<<<<<< HEAD
 **Frontend:** React, TypeScript, Vite, TailwindCSS, shadcn/ui  
 **Backend:** Python, Flask, SQLite  
 **Auth:** Email/Password + Google OAuth
+=======
+## 💬 Contact
+**Author:** [Vinodhan]  
+**GitHub:** [@vinodhan07](https://github.com/vinodhan07)  
+**Email:** vinovb21@gmail.com
+
+---
+
+### ⭐ If you like this project, consider giving it a star on GitHub!
+>>>>>>> 789dffd699f13a7c7b51c08a8872af3f5c9cb30b
