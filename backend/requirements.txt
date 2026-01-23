@@ -1,0 +1,15 @@
+# Backend Dependencies
+# Run: pip install -r requirements.txt
+
+# Web Framework
+Flask==3.0.3
+flask-cors==4.0.0
+
+# Environment Variables
+python-dotenv==1.0.1
+
+# HTTP Requests (for WhoisXML API)
+requests==2.32.3
+
+# Optional: Email validation
+email-validator==2.0.0
